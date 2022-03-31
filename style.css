@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  }
+}
 
 body {
   font-family: Poppins, sans-serif;
@@ -98,12 +98,12 @@ p {
   border: none;
 }
 
-.email-field{
+.email-field {
   border: none;
 }
 
 .text-fld {
   font-size: 15px;
   border: none;
-  color: #B3bac5;
+  color: #b3bac5;
 }

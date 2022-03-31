@@ -1,13 +1,20 @@
 # Project Name
 
-> Student-Portfolio-2
+> Student-Portfolio-Contact-Form
 
 1.Selected a figma template to serve as a guide for the design of the project.
 2.Created the HTML Boiler template for the project.
 3.Added a CSS file to apply styling to the HTML document.
 4.Added an images folder to the project.
+5.Followed the requirement to make sure:
+  i. name field accept maximum of 30 characters
+  ii. email field accepts only emails
+  iii. all fields have placeholder text
+  iv. all fields have the correct type
 5.Committed all changes to my local repository
-6.Pushed all changes from my local repository to my remote repository.
+6.Pushed all changes from my local repository to the remote repository
+
+
 
 
 ## Built With
